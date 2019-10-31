@@ -1,0 +1,3 @@
+DFT_calculation.tar.gz are all the input files for quantum espresso.
+gkq.ipynb reads the dispersion and calculates the values of g(k,q) for a given Omega.
+orgbands.dat is the output from quantum espresso, run by Jupyter.
